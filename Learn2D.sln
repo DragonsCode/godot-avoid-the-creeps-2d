@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn2D", "Learn2D.csproj", "{CFEC9657-C4FC-446D-8D3F-373C3E40EA87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFEC9657-C4FC-446D-8D3F-373C3E40EA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEC9657-C4FC-446D-8D3F-373C3E40EA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEC9657-C4FC-446D-8D3F-373C3E40EA87}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{CFEC9657-C4FC-446D-8D3F-373C3E40EA87}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{CFEC9657-C4FC-446D-8D3F-373C3E40EA87}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{CFEC9657-C4FC-446D-8D3F-373C3E40EA87}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
